@@ -166,8 +166,9 @@ button {
 .contenedor {
     margin:0;
     position: absolute;
-    top:132.5%;
+    top:125.5%;
     left: 64%;
+    float: left;
 }
 
 i {
